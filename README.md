@@ -17,6 +17,4 @@
 https://github.com/alijawad1511/Login_From_Android_Task
 
 ## Credit
-Name              Syed ALi Jawad Bukhari
-MAD Section       Y1
-Resource Person   Ihtisham ul Haq
+Syed Ali Jawad Bukhari
