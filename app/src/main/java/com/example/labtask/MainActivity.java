@@ -38,6 +38,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+    // Check either text fields are empty or not
     private boolean checkValidity(String email, String password, String age) {
         boolean flag = true;
 
