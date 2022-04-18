@@ -11,7 +11,7 @@
 - Java  (Backend)
 
 ## Screenshot
-<img src="https://github.com/alijawad1511/Login_From_Android_Task/blob/master/app/src/main/res/drawable/output_screen.jpg" width="800">
+<img src="https://github.com/alijawad1511/Login_From_Android_Task/blob/master/app/src/main/res/drawable/output_screen.jpg" width="400">
 
 ## Download From
 !(https://github.com/alijawad1511/Login_From_Android_Task)
