@@ -14,7 +14,7 @@
 <img src="https://github.com/alijawad1511/Login_From_Android_Task/blob/master/app/src/main/res/drawable/output_screen.jpg" width="300">
 
 ## Download From
-![https://github.com/alijawad1511/Login_From_Android_Task]
+https://github.com/alijawad1511/Login_From_Android_Task
 
 ## Credit
 Name              Syed ALi Jawad Bukhari
